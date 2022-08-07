@@ -573,7 +573,7 @@ body {
   font-size: 18px;
   line-height: 25px;
   color: #FBD784;
-  background: url("/img/main/komodo/arrow2.svg") right no-repeat;
+  background: url('.img/main/komodo/arrow2.svg') right no-repeat;
   padding-right: 35px;
   transition: all 0.3s ease-out 0s;
 }
@@ -594,7 +594,7 @@ body {
   max-width: 1490px;
   margin: 0 auto;
   padding: 0px 15px;
-  background: url("/img/main/bromo/bromocover.jpg")50% no-repeat;
+  background: url('./img/main/bromo/bromocover.jpg')50% no-repeat;
 }
 .bromo__body {
   padding-top: 545px;
