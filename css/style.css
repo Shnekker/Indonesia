@@ -159,7 +159,7 @@ body {
   font-weight: 400;
   font-size: 17px;
   line-height: 23px;
-  background: url("/img/header/lens.svg") left no-repeat;
+  background: url('/img/header/lens.svg') left no-repeat;
   padding-left: 30px;
 }
 .header__find {
@@ -594,7 +594,7 @@ body {
   max-width: 1490px;
   margin: 0 auto;
   padding: 0px 15px;
-  background: url('/img/main/Background.svg')50% no-repeat ;
+  background: url("/img/main/bromo/bromocover.jpg")50% no-repeat;
 }
 .bromo__body {
   padding-top: 545px;
